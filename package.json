@@ -1,0 +1,22 @@
+{
+  "name": "to-do-react_np",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hello",
+    "create": "mkdir build",
+    "delete": "rmdir build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/to-do-react_np.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/to-do-react_np/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/to-do-react_np#readme"
+}
